@@ -1,6 +1,6 @@
 <template>
   <header>
-    <img src="../img/logo-small.svg" alt="">
+    <img src="/img/logo-small.svg" alt="">
     <label for="select-genre">
       <select id="select-genre" v-model="selectValue"
       name="genre"
